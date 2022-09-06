@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <h3>Statistics</h3>
 
-<!--
-**Safiqq/Safiqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github Stats](https://github-readme-stats.vercel.app/api?username=safiqq&hide=issues&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=Github+Stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safiqq&langs_count=5&layout=compact&theme=vision-friendly-dark)
 
-Here are some ideas to get you started:
+---
+  <h3>Projects</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![URO Magang 2](https://github-readme-stats.vercel.app/api/pin/?username=safiqq&theme=vision-friendly-dark&repo=URO-Magang2)
+![SEKURO Tugas Akhir](https://github-readme-stats.vercel.app/api/pin/?username=safiqq&theme=vision-friendly-dark&repo=Misi-Terakhir-SEKURO-Divisi-Programming)
+
+![SPARTA Milestone 2](https://github-readme-stats.vercel.app/api/pin/?username=safiqq&theme=vision-friendly-dark&repo=SPARTA-Milestone2)
+![Daspro Tubes](https://github-readme-stats.vercel.app/api/pin/?username=safiqq&theme=vision-friendly-dark&repo=Daspro-Tubes)
+
+![Pengkom Tubes 2](https://github-readme-stats.vercel.app/api/pin/?username=safiqq&theme=vision-friendly-dark&repo=Pengkom-Tubes2)
+
+---
+  <h3>Practicums</h3>
+
+![Praktikum STEI STI 2021](https://github-readme-stats.vercel.app/api/pin/?username=safiqq&theme=vision-friendly-dark&repo=Praktikum-STEI-STI-2021)
+</div>
